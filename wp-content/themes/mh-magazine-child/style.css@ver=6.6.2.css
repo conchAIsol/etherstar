@@ -1,0 +1,18 @@
+/*****
+Theme Name: MH Magazine Child Theme
+Theme URI: http://www.mhthemes.com/themes/mh/magazine/
+Description: This is a child theme for MH Magazine WordPress theme to make customizations much easier for you. By using this child theme you make sure, that you keep your changes after an update of the parent theme.
+Author: MH Themes
+Author URI: http://www.mhthemes.com/
+Template: mh-magazine
+Version: 1.0.0
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*****/
+
+.mh-site-logo { padding: 0px; overflow: hidden; }
+.mh-site-logo { background: url(../../uploads/2016/03/anbgheader.jpg); }
+.mh-main-nav li a, .mh-extra-nav li a, .mh-footer-nav li a { padding: 6px 15px; }
+.mh-social-nav li a { display: block; min-width: 35px; font-size: 16px; line-height: 30px; text-align: center; }
+
+.post-19229 .entry-title { display: none; }
